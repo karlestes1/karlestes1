@@ -1,4 +1,5 @@
 ### Hi there, I'm Karl 👋
+###### I am currently working on updating my github profile, moving my old account here, and adding some school and personal projects, so please bear with me if things are incomplete at the moment!
 
 ## I am a student, developer, and lifelong learner 
 - 🧠 I studied computational neuroscience at Washington State University
