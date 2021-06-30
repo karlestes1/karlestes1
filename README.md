@@ -1,12 +1,11 @@
 ### Hi there, I'm Karl 👋
-###### I am currently working on updating my github profile, moving my old account here, and adding some school and personal projects, so please bear with me if things are incomplete at the moment!
 
 ## I am a student, developer, and lifelong learner 
 - 🧠 I studied computational neuroscience at Washington State University
 - 🎓 I'm currently working towards a masters degree in artificial intelligence and machine learning from Colorado State University Global
-- ☁ I'm a contributor to and member of the [Open Alliance for Cloud Adoption (OACA)][oacaweb]
-- 📚 I'm dedicated to learning any and everything I can
-- 🥅 Goal for 2020: To learn swift and how to develop for iOS
+- ☁ I have contributed to the [Open Alliance for Cloud Adoption (OACA)][oacaweb]
+- 📚 I'm dedicated to finding a way to bridge my passions of neuroscience and technology
+- 🥅 Goal for 2021: To further my understanding about the fundamentals and impacts of data science
 - ⚡️ Fun fact: I love to play the drums! 🥁
 
 
