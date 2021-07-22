@@ -11,19 +11,19 @@
 
 
 ### Languages and Tools:
-<img align="left" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
-<img align="left" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
-<img align="left" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" />
-<img align="left" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<!-- TODO - Add links to corresponding languages and tools-->
+<img align="left" height="32" width="32" src="https://cdn.svgporn.com/logos/c.svg" />
+<img align="left" height="32" width="32" src="https://cdn.svgporn.com/logos/c-plusplus.svg" />
+<img align="left" height="32" width="32" src="https://cdn.svgporn.com/logos/python.svg" />
+<img align="left" height="32" width="32" src="https://cdn.svgporn.com/logos/swift.svg" />
+<img align="left" height="32" width="32" src="https://cdn.svgporn.com/logos/visual-studio-code.svg" />
 <img align="left" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/xcode/xcode.png" />
-<img align="left" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" />
-<img align="left" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />
-<img align="left" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitkraken.svg" />
-<img align="left" height="32" width="32" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/terminal/terminal.png" />
+<img align="left" height="32" width="32" src="https://cdn.svgporn.com/logos/wordpress-icon.svg" />
+<img align="left" height="32" width="32" src="https://cdn.svgporn.com/logos/tensorflow.svg" />
+<img align="left" height="32" width="32" src="https://cdn.svgporn.com/logos/git-icon.svg" />
+<img align="left" height="32" width="32" src="https://cdn.svgporn.com/logos/github-octocat.svg" />
+<img align="left" height="32" width="32" src="https://cdn.svgporn.com/logos/gitkraken.svg" />
+<img align="left" height="32" width="32" src="https://cdn.svgporn.com/logos/terminal.svg" />
 
 
 
