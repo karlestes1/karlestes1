@@ -29,10 +29,11 @@ Since the majority of my programming experience has come from school, I wanted t
 
 #### Capstone Project
 - In depth analysis of generative adversarial neworks and four industry use cases: [Link to paper](https://github.com/karlestes1/CSC-580---Applying-Machine-Learning-and-Neural-Networks/blob/main/Portfolio%20Project/Final/GAN_Paper.pdf)
-- Implementing a generative adversarial network to learn to generate a random class from the [CIFAR10](https://www.cs.toronto.edu/~kriz/cifar.html) dataset: [Link to code](https://github.com/karlestes1/CSC-580---Applying-Machine-Learning-and-Neural-Networks/blob/main/Portfolio%20Project/Final/main.py)
+- Implementing a generative adversarial network to learn to generate a random class from the CIFAR10 dataset: [Link to code](https://github.com/karlestes1/CSC-580---Applying-Machine-Learning-and-Neural-Networks/blob/main/Portfolio%20Project/Final/main.py)
 
-#### Other Favorites
-- A basic [autonomous vehicle simulation](https://github.com/karlestes1/CSC-525---Principles-of-Machine-Learning#portfolio-project-ml-agents---autonomous-vehicle) using Unity and the ML-Agents Toolkit 
+#### Favorite Projects
+- A [cognitive decline predictor](https://github.com/karlestes1/CSC-510---Foundations-of-Artificial-Intelligence#portfolio-project-cognitive-decline-predictor) for detecting and classifying cognitive decline in individuals based on survey responses and MRI data
+- A basic [autonomous vehicle simulation](https://github.com/karlestes1/CSC-525---Principles-of-Machine-Learning#portfolio-project-ml-agents---autonomous-vehicle) implemented Unity with the ML-Agents Toolkitand trained via reinforcement learning.
 - Implementing [hyperparameter tuning with a multithreaded approach](https://github.com/karlestes1/CSC-580---Applying-Machine-Learning-and-Neural-Networks#critical-thinking-5-improving-the-accuracy-of-a-neural-network) to improve the accuracy of an artificial neural netowrk 
 
 #### List of Classwork Repositories
