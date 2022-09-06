@@ -1,7 +1,7 @@
 ### Hi there, I'm Karl 👋
 
 ## I am a student, developer, and lifelong learner 
-- 🎓 I am just finishing up a M.Sc. in Artificial Intelligence and Machine Learning from [Colorado State University Global][csug-degree]
+- 🎓 I have a M.Sc. in Artificial Intelligence and Machine Learning from [Colorado State University Global][csug-degree]
 - 🧠 I have a B.Sc. in Neuroscience from [Washington State University][wsu-neuro]
 - 📚 I'm dedicated to finding a way to bridge my passions of neuroscience and technology
 - 🧬 I am working on some personal research into more biologically inspired artificial neural network architectures
