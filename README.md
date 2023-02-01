@@ -2,10 +2,11 @@
 
 ## I am a student, developer, and lifelong learner 
 - 🎓 I have a M.Sc. in Artificial Intelligence and Machine Learning from [Colorado State University Global][csug-degree]
+- 🛡️ I am pursuing a second M.Sc. in Cybersecurity Studies from [American Public University][apu-degree]
 - 🧠 I have a B.Sc. in Neuroscience from [Washington State University][wsu-neuro]
 - 📚 I'm dedicated to finding a way to bridge my passions of neuroscience and technology
-- 🧬 I am working on some personal research into more biologically inspired artificial neural network architectures
-- 🥅 Goal for 2022: To break into the field of Artificial Intelligence and start pursuing my professional career
+- 🧬 I have started a personal research project into biologically inspired artificial evolutionary neural networks
+- 🥅 Goal for 2023: To find a challenging and rewarding position where I can apply my skills to create innocative technology solutions (Check out [my LinkedIn profile][linkedin] if your hiring!)
 - ⚡️ Fun fact about me: I love to play the drums! 🥁
 
 
@@ -21,13 +22,15 @@ Some of the languages and tools I've become familiar with while studying compute
 [<img align="left" height="32" width="32" src="https://cdn.svgporn.com/logos/gitkraken.svg" />](https://www.gitkraken.com)
 [<img align="left" height="32" width="32" src="https://www.psych.mcgill.ca/labs/mogillab/anaconda2/lib/python2.7/site-packages/anaconda_navigator/static/images/anaconda-icon-512x512.png" />](https://www.anaconda.com/)
 [<img align="left" height="32" width="32" src="https://cdn.svgporn.com/logos/visual-studio-code.svg" />](https://code.visualstudio.com)
+[<img align="left" height="32" width="32" src="https://cdn.svgporn.com/logos/jetbrains.svg" />](https://www.jetbrains.com/)
+[<img align="left" height="32" width="32" src="https://cdn.svgporn.com/logos/clion.svg" />](https://www.jetbrains.com/clion/)
 <br/>
 ___
 
 ### Projects and Coursework
 Since the majority of my programming experience has come from school, I wanted to make sure the projects and prgrams I created at University were easily accessible. I've created repositories for all classes which had some aspect of programming involved. 
 
-#### Capstone Project
+#### AI/ML Capstone Project
 - In depth analysis of generative adversarial neworks and four industry use cases: [Link to paper](https://github.com/karlestes1/CSC-580---Applying-Machine-Learning-and-Neural-Networks/blob/main/Portfolio%20Project/Final/GAN_Paper.pdf)
 - Implementing a generative adversarial network to learn to generate a random class from the CIFAR10 dataset: [Link to code](https://github.com/karlestes1/CSC-580---Applying-Machine-Learning-and-Neural-Networks/blob/main/Portfolio%20Project/Final/main.py)
 
@@ -50,9 +53,9 @@ Since the majority of my programming experience has come from school, I wanted t
 
 
 <!--Link definitions-->
-[oacaweb]: https://www.oaca-project.org
-[udemy-class]: https://www.udemy.com/course/python-for-machine-learning-data-science-masterclass/
 [csug-degree]: https://csuglobal.edu/graduate/masters-degrees/artificial-intelligence-and-machine-learning
 [wsu-neuro]: https://admission.wsu.edu/academics/fos/Public/field.castle?id=1702
+[apu-degree]: https://www.apu.apus.edu/academic/schools/science-technology-engineering-and-math/masters/cybersecurity-studies.html
+[linkedin]: https://www.linkedin.com/in/karl-estes/
 
 
